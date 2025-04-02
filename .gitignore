@@ -1,0 +1,15 @@
+# Ignore Python compiled files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignore IDE files
+.idea/
+*.iml
+
+# Ignore generated training data
+laravel_training*.jsonl
+
+# Ignore logs or temporary files
+*.log
